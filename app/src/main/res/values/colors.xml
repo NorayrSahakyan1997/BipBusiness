@@ -2,5 +2,41 @@
 <resources>
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#26B99A</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="phoneNumberShadow">#19FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="pass_code_inactive">#800289BE</color>
+    <color name="pass_code_active">#26B99A</color>
+    <color name="pass_code_active_transparent">#7326B99A</color>
+    <color name="rectangle_background_light">#29000000</color>
+    <color name="divider_color">#28989898</color>
+    <color name="wallet_background_color">#9CFFFEFE</color>
+    <color name="color_blue_text">#0086BF</color>
+    <color name="inactive_text_color_tab">#9EB4CA</color>
+    <color name="background_color">#232749</color>
+    <color name="grey">#707070</color>
+    <color name="unableRow">#59A3A3A3</color>
+    <color name="darkGreen">#017374</color>
+    <color name="transparentGreen">#74017374</color>
+    <color name="darkLight">#019592</color>
+    <color name="redTransparent">#73D8334A</color>
+    <color name="yellowTransparent">#73FF8000</color>
+    <color name="transparentGrey">#EEF0F2</color>
+    <color name="red">#E56D6D</color>
+    <color name="yellow">#FF8000</color>
+    <color name="transparentSilver">#CDCDCD</color>
+    <color name="convertEditTextBackground">#1A989898</color>
+    <color name="searchCountyShapeColor">#D7A8A8A8</color>
+    <color name="input_inactive_background">#05989898</color>
+    <color name="redChart">#D8334A</color>
+    <color name="greenChart">#26B99A</color>
+    <color name="transparentWhite">#19E2DEDE</color>
+    <color name="darkGreenRatingBar">#035A5A</color>
+    <color name="greyish">#BEBEBE</color>
+    <color name="qrPayTitleColor">#BEC3C7</color>
+    <color name="whiteWithOpacity">#19FFFFFF</color>
+    <color name="colorBackgroundPartners">#0FF1F1F1</color>
+    <color name="heavyWhite">#F0EEEE</color>
+
 </resources>
